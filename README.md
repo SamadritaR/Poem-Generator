@@ -1,7 +1,6 @@
 # Writing Creative Poems With Deep Learning And NLP
 <p align="center">
 <a href="https://nbviewer.jupyter.org/github/NavinBondade/Lisa-An-AI-That-Writes-Lovely-Poems/blob/main/Notebook/Poem_Writing_AI%20%282%29.ipynb" target="_blank">
-  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
 </a>
 </p>
 <img src="https://compote.slate.com/images/90194c2c-a99e-4c6f-9615-d9df031b6586.jpg" width="950" height="650">
